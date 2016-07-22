@@ -1,0 +1,25 @@
+?solve
+inv <- NULL
+inv <- solve(matrix(c(1,0,0,1)))
+inv <- solve(matrix(c(1,0,0,1),2,2))
+inv
+a <- c(1,2,3,2)
+a=matrix()
+a
+a=matrix()
+a
+(a=matrix())
+x = numeric()
+x
+clear
+m <- c(2,2,1,1)
+m <- matrix(m,2,2)
+m
+m <- c(2,1,1,2)
+m <- matrix(m,2,2)
+m
+solve(m)
+m
+pwd
+getwd()
+mat <- makeCacheMatrix(m)
